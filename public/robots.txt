@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medimed.leon-tech.com/sitemap.xml
